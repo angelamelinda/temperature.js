@@ -17,7 +17,7 @@
   "author": "Angela Melinda <angela.melinda@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angelamelinda/temperature.js"
+    "url": "https://github.com/angelamelinda/temperature.js.git"
   },
   "license": "MIT",
   "engines": {
