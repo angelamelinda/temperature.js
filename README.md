@@ -3,7 +3,7 @@
 ## Install
 
 ```
-npm install temperature.js
+npm install temperature-js
 ```
 
 ## Usage

@@ -2,7 +2,12 @@
   "name": "temperature-js",
   "version": "0.0.1",
   "description": "",
-  "keywords": [],
+  "keywords": [
+    "react",
+    "temperature-js",
+    "temperature",
+    "component"
+  ],
   "main": "dist/temperature-js.umd.js",
   "module": "dist/temperature-js.es5.js",
   "typings": "dist/types/temperature-js.d.ts",
