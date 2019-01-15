@@ -84,7 +84,7 @@ describe('TemperatureTest', () => {
     expect(Temperature.rankineToFahrenheit(10)).toBe(-449.67)
   })
 
-  // it('convert rankine to reaumur', () => {
-  //   expect(Temperature.rankineToReaumur(10)).toBe(-214.07555555555555)
-  // })
+  it('convert rankine to reaumur', () => {
+    expect(Temperature.rankineToReaumur(10)).toBe(-214.07555555555555)
+  })
 })
