@@ -12,13 +12,13 @@ describe('TemperatureTest', () => {
   //   expect(Temperature.celciusToFahrenheit(10)).toBe(50)
   // })
 
-  it('convert celcius to reaumur', () => {
-    expect(Temperature.celciusToReaumur(10)).toBe(8)
-  })
+  // it('convert celcius to reaumur', () => {
+  //   expect(Temperature.celciusToReaumur(10)).toBe(8)
+  // })
 
-  it('convert celcius to rankine', () => {
-    expect(Temperature.celciusToRankine(10)).toBe(509.67)
-  })
+  // it('convert celcius to rankine', () => {
+  //   expect(Temperature.celciusToRankine(10)).toBe(509.67)
+  // })
 
   it('convert kelvin to celcius', () => {
     expect(Temperature.kelvinToCelcius(10)).toBe(-263.15)
