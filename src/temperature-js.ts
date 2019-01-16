@@ -1,7 +1,7 @@
 const Temperature = {
-  // celciusToKelvin: (temp: number) => {
-  //   return temp + 273.15
-  // },
+  celciusToKelvin: (temp: number) => {
+    return temp + 273.15
+  },
   celciusToFahrenheit: (temp: number) => {
     return (temp * 9) / 5 + 32
   },
