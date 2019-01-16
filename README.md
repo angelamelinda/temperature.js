@@ -13,11 +13,11 @@ npm install temperature-js
 
 ## Unit
 
-Celcius
-Kelvin
-Fahrenheit
-Rankine
-Reaumur
+- Celcius
+- Kelvin
+- Fahrenheit
+- Rankine
+- Reaumur
 
 ## Usage
 
