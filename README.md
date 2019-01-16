@@ -11,6 +11,14 @@
 npm install temperature-js
 ```
 
+## Unit
+
+Celcius
+Kelvin
+Fahrenheit
+Rankine
+Reaumur
+
 ## Usage
 
 ```
@@ -23,7 +31,7 @@ Celcius to Kelvin
 Temperature.celciusToKelvin(10);
 ```
 
-Celcius to Farenheit
+Celcius to Fahrenheit
 
 ```
 Temperature.celciusToFahrenheit(10)
@@ -47,7 +55,7 @@ Kelvin to Celcius
 Temperature.kelvinToCelcius(10);
 ```
 
-Kelvin to Farenheit
+Kelvin to Fahrenheit
 
 ```
 Temperature.kelvinToFahrenheit(10)
@@ -95,7 +103,7 @@ Rankine to Celcius
 Temperature.rankineToCelcius(10);
 ```
 
-Rankine to Farenheit
+Rankine to Fahrenheit
 
 ```
 Temperature.rankineToFahrenheit(10)
@@ -119,7 +127,7 @@ Reaumur to Celcius
 Temperature.reaumurToCelcius(10);
 ```
 
-Reaumur to Farenheit
+Reaumur to Fahrenheit
 
 ```
 Temperature.reaumurToFahrenheit(10)
