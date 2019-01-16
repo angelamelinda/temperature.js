@@ -8,9 +8,9 @@ describe('TemperatureTest', () => {
   //   expect(Temperature.celciusToKelvin(10)).toBe(283.15)
   // })
 
-  it('convert celcius to fahrenheit', () => {
-    expect(Temperature.celciusToFahrenheit(10)).toBe(50)
-  })
+  // it('convert celcius to fahrenheit', () => {
+  //   expect(Temperature.celciusToFahrenheit(10)).toBe(50)
+  // })
 
   it('convert celcius to reaumur', () => {
     expect(Temperature.celciusToReaumur(10)).toBe(8)
