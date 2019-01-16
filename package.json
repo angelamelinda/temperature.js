@@ -1,6 +1,6 @@
 {
   "name": "temperature-js",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "Convert temperature to Celcius, Reaumur, Fahrenheit, and Rankine",
   "keywords": [
     "react",
